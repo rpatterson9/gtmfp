@@ -1,9 +1,9 @@
 const initialState = {
-  clickedOrigin: 'Broadway',
+  clickedOrigin: 'Hicksville',
   clickedDestination: 'Penn Station',
   ticketType: 'One Way',
-  ticket: 'Peak',
-  cost: '$10.25'
+  ticket: 'Off Peak',
+  cost: '$7.25'
 }
 
 const clickReducer = ( state = initialState, { type, payload } ) => {

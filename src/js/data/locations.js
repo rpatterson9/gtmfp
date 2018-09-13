@@ -1,5 +1,5 @@
 const LOCATIONS = [
-  'Grand Central Terminal',
+  'Hicksville',
   'Penn Station',
   '.',
   'A',
